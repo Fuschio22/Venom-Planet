@@ -1,4 +1,4 @@
-# Venom-Planet
+# Venom Planet
 <item>
 <title>IT: Rai 1 HD PALLOK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/andreas1/andreas1/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 1 HD PALLOK</link>

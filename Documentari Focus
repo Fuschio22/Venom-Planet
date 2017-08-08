@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0,  Panorami Cosmici - 1x01 - Curiosity su Marte
+plugin://plugin.video.youtube/play/?video_id=h1MInzJdE_0
+#EXTINF:0,  Panorami Cosmici - 1x02 - Costellazioni
+plugin://plugin.video.youtube/play/?video_id=jWih-QAmg-k
+#EXTINF:0,  Panorami Cosmici - 1x03 - Energia Oscura
+plugin://plugin.video.youtube/play/?video_id=5M4WyoHbGkg
+#EXTINF:0,  Panorami Cosmici - 1x04 - Eclissi
+plugin://plugin.video.youtube/play/?video_id=w6KYq8eRy9k
+#EXTINF:0,  Panorami Cosmici - 2x01 - La Rinascita di Hubble
+plugin://plugin.video.youtube/play/?video_id=cMMl9HLX_I
+#EXTINF:0,  Panorami Cosmici - 2x02 - SuperTelescopi
+plugin://plugin.video.youtube/play/?video_id=TCL5QA2ayHY
+#EXTINF:0,  Panorami Cosmici - 2x03 - Arcobaleni Cosmici
+plugin://plugin.video.youtube/play/?video_id=a22SzhXdYGM
+#EXTINF:0,  Panorami Cosmici - 2x04 - Il Paradiso degli astro
+plugin://plugin.video.youtube/play/?video_id=uKWOpLUX7p0
+#EXTINF:0,  Panorami Cosmici - 2x05 - Fuochi Notturni
+plugin://plugin.video.youtube/play/?video_id=YZMSDNhZoaU
+#EXTINF:0,  Panorami Cosmici - 2x06 - Universo Virtuale
+plugin://plugin.video.youtube/play/?video_id=WQBCZX74Xfw
+#EXTINF:0,  FOCUS I segreti del tempo Il Mito di Atlantide 1 di 3
+plugin://plugin.video.youtube/play/?video_id=X-tjtRfcJBQ
+#EXTINF:0,  FOCUS I segreti del tempo Il Mito di Atlantide 2 di 3
+plugin://plugin.video.youtube/play/?video_id=qU3hh5AF0IY
+#EXTINF:0,  FOCUS I segreti del tempo Il Mito di Atlantide 3 di 3
+plugin://plugin.video.youtube/play/?video_id=UPHI1YUbsnM
+#EXTINF:0,  Focus Segreti di guerra Le armi della guerra delle ombre 1 di 4
+plugin://plugin.video.youtube/play/?video_id=tT579m3l1Zk
+#EXTINF:0,  Focus Segreti di guerra Le armi della guerra delle ombre 2 di 4
+plugin://plugin.video.youtube/play/?video_id=cAQwYf6_UiE
+#EXTINF:0,  Focus Segreti di guerra Le armi della guerra delle ombre 3 di 4
+plugin://plugin.video.youtube/play/?video_id=KQnEEHmjqEc
+#EXTINF:0,  Focus Segreti di guerra Le armi della guerra delle ombre 4 di 4
+plugin://plugin.video.youtube/play/?video_id=2sKkbdnt_Js

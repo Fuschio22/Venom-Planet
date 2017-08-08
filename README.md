@@ -17,7 +17,7 @@
  
 <item>
 <title>[B][COLOR lime]==[COLOR white]==[COLOR red]==[COLOR lime] Se qualche lista e' vuota o non funzionante torna indietro e riprova
-[COLOR white]o scrivi un messaggio al bot Telegram [COLOR red]@Aladino78Bot [COLOR lime]==[COLOR white]==[COLOR red]==[COLOR lime][/COLOR][/B]</title>
+[COLOR white][COLOR red][COLOR lime]==[COLOR white]==[COLOR red]==[COLOR lime][/COLOR][/B]</title>
 <link>ignore</link>
 <thumbnail>https://www.dropbox.com/s/i43cnmlkhub9dmk/Venom%20Planet_2.png?dl=1</thumbnail>
 <fanart>https://www.dropbox.com/s/l9zzjljzvdq1plp/435573.jpg?dl=1</fanart>

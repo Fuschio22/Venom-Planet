@@ -1,0 +1,180 @@
+<item>
+<title>[B][COLOR lime]             SE QUALCHE LISTA E' VUOTA TORNATE INDIETRO E RIPROVATE[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+
+<item>
+<title>                    </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Ulisse - Il piacere della scoperta      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>http://www.meteoweb.eu/wp-content/uploads/2013/04/ulisse-alberto-angela.jpg</thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Geo      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>http://www.maridacaterini.it/media/k2/items/cache/1388f926012788145fa8f282640ed3c3_XL.jpg</thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Scala Mercalli      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>http://www.meteoweb.eu/wp-content/uploads/2016/08/scala-mercalli1.jpg</thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Superquark      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>http://www.rai.it/dl/img/2016/06/28/1467110647003_superquark_2048x1536.jpg</thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
+
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Fuori luogo      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://pbs.twimg.com/media/CrWwMCsW8AAxeqZ.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://github.com/Fuschio22/Venom-Planet/raw/master/Fuori%20Luogo</externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Cosmos: Odissea nello spazio      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://www.griffinitalia.net/wp-content/uploads/2014/01/poster_di_cosmo_odissea_nello_spazio.jpg</thumbnail>
+<fanart>https://dg31sz3gwrwan.cloudfront.net/fanart/260586/1003396-0-q80.jpg</fanart>
+<externallink>https://github.com/Fuschio22/Venom-Planet/raw/master/Cosmos:%20Odissea%20nello%20spazio</externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Documentari vari, complotti...      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>http://www.laboratoriorosso.com/ita/wp-content/uploads/2012/09/337960.jpg</thumbnail>
+<fanart>http://www.documentari-streaming-db.com/cms/wp-content/uploads/2016/09/FA11-300x216.jpg</fanart>
+<externallink>http://pastebin.com/raw/3cGNHzLL</externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Scie chimiche      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>http://www.ticinolive.ch/files/2014/08/chemtrails.jpg</thumbnail>
+<fanart>http://www.documentari-streaming-db.com/cms/wp-content/uploads/2016/09/FA11-300x216.jpg</fanart>
+<externallink>http://pastebin.com/raw/SuqUhaxv</externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Verita' nascoste      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>http://www.veritanascoste.com/news/wp-content/themes/verita/images/logo.png</thumbnail>
+<fanart>http://www.documentari-streaming-db.com/cms/wp-content/uploads/2016/09/FA11-300x216.jpg</fanart>
+<externallink>http://pastebin.com/raw/uBDBv62h</externallink>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Massoneria      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>http://documentario.myblog.it/media/02/01/1526226665.2.jpg</thumbnail>
+<fanart>http://www.documentari-streaming-db.com/cms/wp-content/uploads/2016/09/FA11-300x216.jpg</fanart>
+<externallink>http://pastebin.com/raw/5fyMbP3q</externallink>
+</item>
+ 
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Panorami cosmici      [/B][/COLOR]</title>
+<thumbnail>http://www.focus.it/site_stored/imgs/0003/005/nasa_orion_spitzerlrot.630x360.jpg</thumbnail>
+<fanart>http://www.collezionaredischidal79.com/IMMAGINISITO/FOTOPAOLO/sguardisullaterra.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.focus.it/site_stored/imgs/0003/005/nasa_orion_spitzerlrot.630x360.jpg</thumbnail>
+<fanart>http://www.collezionaredischidal79.com/IMMAGINISITO/FOTOPAOLO/sguardisullaterra.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLinj5AVQ6LzODRE1zIBEeOln3Sz2UMu99</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Terremoti e vulcani      [/B][/COLOR]</title>
+<thumbnail>http://www.blueplanetheart.it/wp-content/uploads/2015/08/etna1.jpg</thumbnail>
+<fanart>http://www.protezionecivile.gov.it/resources/cms/images/_PMS9448_d0.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.blueplanetheart.it/wp-content/uploads/2015/08/etna1.jpg</thumbnail>
+<fanart>http://www.protezionecivile.gov.it/resources/cms/images/_PMS9448_d0.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL8rsDQgiO0DySgicaMU0omD8GwbPfY9mg</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Apocalypse - La Seconda Guerra Mondiale      [/B][/COLOR]</title>
+<thumbnail>http://martellizgraviidamiano.altervista.org/Immagini/gm.jpg</thumbnail>
+<fanart>http://www.notizie.it/wp-content/uploads/2016/04/la-seconda-guerra-mondiale-in-pillole_4f1e0b60ec57b6a2e224617f181df94c.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://martellizgraviidamiano.altervista.org/Immagini/gm.jpg</thumbnail>
+<fanart>http://www.notizie.it/wp-content/uploads/2016/04/la-seconda-guerra-mondiale-in-pillole_4f1e0b60ec57b6a2e224617f181df94c.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLqsveT8KlnBhPbNMtzCPAhKtWdQU2oBu7</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      Alieni Nuove rivelazioni - Focus      [/B][/COLOR]</title>
+<thumbnail>http://www.programmitvsera.it/cms/wp-content/uploads/2015/12/alieni-nuove-rivelazioni.JPG</thumbnail>
+<fanart>http://www.2duerighe.com/wp-content/uploads/2015/01/UFO-su-Alpi-Apuane-lavvistamento-pi%C3%B9-importante-dal-1999_700x438.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.programmitvsera.it/cms/wp-content/uploads/2015/12/alieni-nuove-rivelazioni.JPG</thumbnail>
+<fanart>http://www.2duerighe.com/wp-content/uploads/2015/01/UFO-su-Alpi-Apuane-lavvistamento-pi%C3%B9-importante-dal-1999_700x438.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLq4jTx7RcZQJ2TAP0MyVkRlEbfVFx6ou8</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+</title><title>[B] [COLOR lime]==[COLOR white]==[COLOR red]== [COLOR lime]      La banda della Magliana - La vera storia      [/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/d/d5/Banda_della_Magliana.jpg</thumbnail>
+<fanart>http://www.documentari-streaming-db.com/cms/wp-content/uploads/2016/09/FA11-300x216.jpg</fanart>
+<externallink>http://pastebin.com/raw/XhzRcQW6</externallink>
+</item>
